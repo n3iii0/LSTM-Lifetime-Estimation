@@ -1,0 +1,5 @@
+The dataset used for this master thesis can be downloaded from:
+
+https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/
+
+Number 10. FEMTO Bearing Data Set
